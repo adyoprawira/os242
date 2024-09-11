@@ -6,16 +6,27 @@ permalink: LINKS/
 
 ### General
 
-*[Website for OS](https://os.vlsm.org/#idx03)
+* [Website for OS](https://os.vlsm.org/#idx03)
 <br> OS website for accessing slides, assignments, tutorials, etc.
 
-### W0
+* [OS PowerPoints](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/)
+<br> Slides/PowerPoints as resources to study for quizzes.
 
-### W1
+* [Previous Midterm Problems](https://rms46.vlsm.org/2/197.pdf)
+<br> Practice questions from previous years' midterm for quizzes studying.
 
-* [Git Tutorial For Dummies](https://youtu.be/mJ-qvsxPHpY?si=9XX_ZsR0LYSefZ01 "Git Tutorial For Dummies") This YouTube video is very useful for beginners using Github. It explains each commands clearly and thoroughly.
-* [60 Linux Commands you NEED to know (in 10 minutes)](https://youtu.be/gd7BXuUQ91w?si=bbYoV_9K9uQPtWbU "60 Linux Commands you NEED to know (in 10 minutes)") Same thing as above, but Linux commands.
+### Week 01
 
-### W2
+* [Git Tutorial For Dummies](https://youtu.be/mJ-qvsxPHpY?si=9XX_ZsR0LYSefZ01 "Git Tutorial For Dummies")
+  <br> This YouTube video is very useful for beginners using Github. It explains each commands clearly and thoroughly.
+  
+* [60 Linux Commands you NEED to know (in 10 minutes)](https://youtu.be/gd7BXuUQ91w?si=bbYoV_9K9uQPtWbU "60 Linux Commands you NEED to know (in 10 minutes)")
+  <br> It explains 60 useful linux commands that I can use throughout this OS course.
 
-* [Cyber Security Full Course for Beginner](https://youtu.be/U_P23SqJaDc "Cyber Security Full Course for Beginner") This video explains what Cyber Security is along with its threats.
+### Week 02
+
+* [Cyber Security Full Course for Beginner](https://youtu.be/U_P23SqJaDc "Cyber Security Full Course for Beginner")
+  <br> This video explains what Cyber Security is along with its threats.
+
+* [RegEx in 100 Seconds](https://www.youtube.com/watch?v=sXQxhojSdZM)
+  <br> Explain all RegEx commands in 100 seconds. Recommended to use when doing assignments.
