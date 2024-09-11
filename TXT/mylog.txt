@@ -1,6 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W02 10 L41 TXT/mylog.txt related.
+ZCZC W02 150 L09 Weekly Assignments
+ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 20 L00 General, etc.
 ZCZC W01 80 L64 Helping a friend (OS related problem)
 ZCZC W01 180 L09 Weekly Assignments
@@ -11,5 +14,4 @@ ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 10 L03 Github related
 ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 60 L09 Weekly Assignments
-ZCZC W00 30 L05 Quiz related including studying
- 
+ZCZC W00 30 L05 Quiz related including studying 
