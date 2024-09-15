@@ -15,7 +15,7 @@ permalink: LINKS/
 * [Previous Midterm Problems](https://rms46.vlsm.org/2/197.pdf)
 <br> Practice questions from previous years' midterm for quizzes studying.
 
-*[Log Codes](https://doit.vlsm.org/ETC/logCodes.txt)
+* [Log Codes](https://doit.vlsm.org/ETC/logCodes.txt)
 <br> Reference for logging mylog.txt.
 
 ### Week 01
