@@ -15,6 +15,9 @@ permalink: LINKS/
 * [Previous Midterm Problems](https://rms46.vlsm.org/2/197.pdf)
 <br> Practice questions from previous years' midterm for quizzes studying.
 
+*[Log Codes](https://doit.vlsm.org/ETC/logCodes.txt)
+<br> Reference for logging mylog.txt.
+
 ### Week 01
 
 * [Git Tutorial For Dummies](https://youtu.be/mJ-qvsxPHpY?si=9XX_ZsR0LYSefZ01 "Git Tutorial For Dummies")
