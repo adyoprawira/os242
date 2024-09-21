@@ -33,3 +33,11 @@ permalink: LINKS/
 
 * [RegEx in 100 Seconds](https://www.youtube.com/watch?v=sXQxhojSdZM)
   <br> Explain all RegEx commands in 100 seconds. Recommended to use when doing assignments.
+
+### Week 03
+
+* [How to use VirtualBox - Tutorial for Beginners](https://youtu.be/nvdnQX9UkMY?si=AmjIOJfrAb-KRbl5 "How to use VirtualBox - Tutorial for Beginners")
+  <br> Quick tutorial that explains how to use Oracle VirtualBox.
+
+* [Virtual Hard Disks](https://youtu.be/tTBt7_aACPI?si=BttvPhqFtmTvyXn1 "Virtual Hard Disks")
+  <br> This video explains what Virtual Disk is compared to normal disks.
