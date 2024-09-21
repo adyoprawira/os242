@@ -2,6 +2,14 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W03 100 L00 General, etc.
+ZCZC W03 200 L70 Studying for other courses.
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 20 L15 Assignment #05
+ZCZC W03 20 L14 Assignment #04
+ZCZC W03 30 L13 Assignment #03
+ZCZC W03 5 L12 Assignment #02
+ZCZC W03 15 L11 Assignment #01
 ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 30 L05 Quiz related including studying
 ZCZC W02 10 L41 TXT/mylog.txt related.
