@@ -41,3 +41,8 @@ permalink: LINKS/
 
 * [Virtual Hard Disks](https://youtu.be/tTBt7_aACPI?si=BttvPhqFtmTvyXn1 "Virtual Hard Disks")
   <br> This video explains what Virtual Disk is compared to normal disks.
+
+### Week 04
+
+* [The Linux Programming Interface](https://man7.org/tlpi/ "The Linux Programming Interface")
+  <br> A detailed guide and reference for Linux and UNIX system programming.
