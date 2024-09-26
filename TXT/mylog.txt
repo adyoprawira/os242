@@ -2,6 +2,17 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W04 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 30 L81 Listening: Radio, Music, etc.
+ZCZC W04 90 L88 Workout/Sport/Exercise/ETC.
+ZCZC W04 10 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W04 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 10 L41 TXT/mylog.txt related.
+ZCZC W04 200 L70 Studying for other courses.
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 90 L09 Weekly Assignments
 ZCZC W03 100 L00 General, etc.
 ZCZC W03 200 L70 Studying for other courses.
 ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
