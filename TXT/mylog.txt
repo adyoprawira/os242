@@ -2,6 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W04 120 L09 Assignment in General
 ZCZC W04 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W04 30 L81 Listening: Radio, Music, etc.
 ZCZC W04 90 L88 Workout/Sport/Exercise/ETC.
