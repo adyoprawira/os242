@@ -46,3 +46,10 @@ permalink: LINKS/
 
 * [The Linux Programming Interface](https://man7.org/tlpi/ "The Linux Programming Interface")
   <br> A detailed guide and reference for Linux and UNIX system programming.
+
+### Week 05
+
+* [5 Commands For Checking Memory Usage In Linux](https://man7.org/tlpi/](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-linux-101-5-commands-for-checking-memory-usage-in-linux "5 Commands For Checking Memory Usage In Linux")
+<br> Article providing information on how to check for memory usage in Linux.
+
+
