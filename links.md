@@ -54,7 +54,7 @@ permalink: LINKS/
 
 ### Week 06
 
-*[Fork Manual Page](https://man7.org/linux/man-pages/man2/fork.2.html "Fork Manual Page")
+* [Fork Manual Page](https://man7.org/linux/man-pages/man2/fork.2.html "Fork Manual Page")
 <br> Linux manual page, specifically regarding Fork().
 
 
