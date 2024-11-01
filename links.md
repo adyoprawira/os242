@@ -57,4 +57,9 @@ permalink: LINKS/
 * [Fork Manual Page](https://man7.org/linux/man-pages/man2/fork.2.html "Fork Manual Page")
 <br> Linux manual page, specifically regarding Fork().
 
+### Week 07
+
+* [Peterson's Algorithm](https://www.youtube.com/watch?v=gYCiTtgGR5Q "Peterson's Algorithm")
+<br> Explanation about Peterson's solution to access critical regions
+
 
