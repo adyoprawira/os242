@@ -62,4 +62,7 @@ permalink: LINKS/
 * [Peterson's Algorithm](https://www.youtube.com/watch?v=gYCiTtgGR5Q "Peterson's Algorithm")
 <br> Explanation about Peterson's solution to access critical regions
 
+### Week 08
 
+* [Linux From Scratch Tutorial](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3 "Linux From Scratch Tutorial")
+<br> Tutorial for Linux From Scratch Book from Chapter 1 - 11
